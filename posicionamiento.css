@@ -1,0 +1,25 @@
+.caja1{
+
+   background-color: yellow;
+   position: fixed;
+   z-index: 1;
+   height: 100px;
+   width: 100px;
+
+}
+
+.caja2{
+
+   background-color:orange;
+   position: absolute;
+   left:50px;
+   top: 80px;
+   height: 1000px;
+
+}
+
+.caja1{
+
+    width: 100px;
+    height: 100px;
+}
