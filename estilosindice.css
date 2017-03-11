@@ -1,0 +1,26 @@
+img.imghtml{
+
+   position: relative;
+
+   height: 150px
+   
+
+}
+
+.parrafo{
+
+    position:absolute;
+    top: 8em;
+    left:10em
+    
+    
+}
+
+.seccion1{
+
+    background-color:paleturquoise;
+    text-align: justify
+}
+
+
+
