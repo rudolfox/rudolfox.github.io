@@ -1,26 +1,23 @@
-img.imghtml{
-
-   position: relative;
-
-   height: 150px
-   
+.ent1{
+  
+   width: 50%;
+   height: 40%;
+   border: 10px;
+   border: solid black;
+   background-color:cadetblue;
 
 }
-
-.parrafo{
-
-    position:absolute;
-    top: 8em;
-    left:10em
-    
-    
+.img1{
+  width: 18%;
+  background-position-x: 80px;
+  background-position-y: 20px;
+  position:relative;
+  
 }
+body{
 
-.seccion1{
+   background-color:slategrey;
 
-    background-color:paleturquoise;
-    text-align: justify
 }
-
 
 
