@@ -1,17 +1,19 @@
 .ent1{
   
    width: 50%;
-   height: 40%;
-   border: 10px;
+   height: 50%;
+   border: 30px;
    border: solid black;
    background-color:cadetblue;
 
 }
 .img1{
-  width: 18%;
+  width: 10%;
   background-position-x: 80px;
   background-position-y: 20px;
   position:relative;
+  left: 10px;
+  top: 20px;
   
 }
 body{
@@ -19,5 +21,14 @@ body{
    background-color:slategrey;
 
 }
+.descripcion1{
+   
+    position: relative;
+    text-align: center;
+    left: 30px;
+    bottom:45px
+     
+}
+
 
 
