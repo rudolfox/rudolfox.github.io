@@ -1,33 +1,49 @@
-.ent1{
-  
+.ent1,.ent2,.ent3{
+   
    width: 50%;
    height: 50%;
    border: 30px;
    border: solid black;
    background-color:cadetblue;
-
+   margin-bottom: 20px;
+   margin-left: 350px;
+   
 }
-.img1{
+
+.img1,.img2,.img3{
+  
   width: 10%;
   background-position-x: 80px;
   background-position-y: 20px;
   position:relative;
   left: 10px;
-  top: 20px;
-  
+  top: 20px; 
 }
+
 body{
 
    background-color:slategrey;
 
 }
-.descripcion1{
+.descripcion1,.descripcion2,.descripcion3{
    
     position: relative;
     text-align: center;
     left: 30px;
     bottom:45px
      
+}
+
+.blogDes,.DESP{
+
+    margin-left: 350px;
+
+}
+
+.Tit{
+
+     margin-left: 500px;
+
 }
 
 
