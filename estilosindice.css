@@ -45,6 +45,40 @@ body{
      margin-left: 500px;
 
 }
+/*Estilos para los temas en html*/
 
+.t1,.t2,.t3,.t4,.t5{
+        
+        position: relative;
+        width: 50%;
+        height: 50%;
+        border: 30px;
+        border: solid black;
+        background-color:cornflowerblue;
+        margin-bottom: 20px;
+        margin-left: 350px;
+ 
+}
 
+p{
+
+   margin-left: 10%;
+   position: relative;
+}
+
+h3{
+
+   margin-left: 46%;
+   position: relative;
+}
+
+h2{
+     margin-left: 43%; position: relative;
+}
+
+h1{
+
+   margin-left: 41%;
+   position: relative;
+}
 
